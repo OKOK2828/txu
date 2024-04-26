@@ -22,9 +22,9 @@ $TUX:
 const socialMediaText = `
 Social Media Links:
 
-- Twitter: https://twitter.com/TuxSol
+
 - Telegram: https://t.me/tuxsol
-- Contract:  AdscjRtj5UfxvWD8uuim4BaEJm4yHVBUYpKhB797W1Va
+- Contract:  
 `;
 
 const thankYouText = `
