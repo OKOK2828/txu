@@ -24,7 +24,7 @@ Social Media Links:
 
 - Twitter: https://twitter.com/TuxSol
 - Telegram: https://t.me/tuxsol
-- Contract:  
+- Contract:  AdscjRtj5UfxvWD8uuim4BaEJm4yHVBUYpKhB797W1Va
 `;
 
 const thankYouText = `
